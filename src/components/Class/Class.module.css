@@ -1,0 +1,14 @@
+.Class, .ActiveClass {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.ActiveClass {
+    color: forestgreen;
+    text-decoration: underline;
+}
+
+.Selector:hover {
+    cursor:pointer;
+    color:burlywood;
+}
